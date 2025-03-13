@@ -1,9 +1,5 @@
 # 📊 The Android App Market: Data Analysis & Visualization  
 
-![Google Play Store Analysis](https://img.shields.io/badge/Google_Play_Store-Data_Analysis-blue.svg)  
-![Python](https://img.shields.io/badge/Python-Data%20Science-yellow.svg)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)  
-
 ## 🔍 Overview  
 This project explores the **Google Play Store** app market using **data analysis and visualization techniques**. The dataset includes thousands of free and paid apps, along with user reviews and sentiment analysis. Using **Python, Pandas, NumPy, and Matplotlib**, we uncover insights into app categories, pricing strategies, user ratings, and sentiment trends.  
 
@@ -15,8 +11,7 @@ The dataset consists of two key CSV files:
 ## 🛠 Tech Stack & Libraries  
 🔹 **Python** – Data analysis & processing  
 🔹 **Pandas, NumPy** – Data cleaning & transformation  
-🔹 **Matplotlib, Seaborn** – Data visualization  
-🔹 **WordCloud, TextBlob** – Sentiment analysis  
+🔹 **Matplotlib, Seaborn** – Data visualization   
 
 ## 📊 Key Insights & Visualizations  
 ✔️ **App Ratings & Reviews** 📈 – Understanding the distribution of ratings and review trends.  
@@ -25,19 +20,18 @@ The dataset consists of two key CSV files:
 ✔️ **Sentiment Analysis** 📝 – Extracting user review sentiments using polarity scores.  
 ✔️ **Correlation Analysis** 🔗 – Exploring relationships between app size, price, and popularity.  
 
-## 📸 Sample Visualizations  
-### 🔹 Sentiment Distribution of Apps  
-![Sentiment Analysis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Histogram_of_luminance.png)  
-
-### 🔹 Category-Wise App Distribution  
-![Category Distribution](https://upload.wikimedia.org/wikipedia/commons/1/19/Pie_chart.svg)  
+## 📌 Future Improvements  
+✔️ Integrate **Machine Learning models** for app rating prediction.  
+✔️ Build an **interactive dashboard** using Plotly or Streamlit.  
+✔️ Enhance **NLP analysis** for deeper user sentiment insights.  
+ 
 
 ## 🚀 How to Run  
 Follow these steps to run the analysis on your local machine:  
 
 1️⃣ **Clone this repository:**  
 ```sh
-git clone https://github.com/yourusername/android-app-market-analysis.git
+git clone https://github.com/esfanmerchant/Data-Analysis-Android-App-Market.git
 ```
 2️⃣ **Install dependencies:**
 ```sh
@@ -47,6 +41,7 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob
 ```sh
 jupyter notebook analysis.ipynb
 ```
+  
 ## 🤝 Contributing  
 💡 **Want to contribute?** Here's how:  
 1️⃣ **Fork the repository**  
