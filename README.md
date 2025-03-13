@@ -55,5 +55,5 @@ For major changes, please open an **issue** first to discuss.
 ---
 
 ## 📞 Contact  
-📧 **Email:** yourname@example.com  
+📧 **Email:** esfanmerchant@gmail.com  
 🔗 **GitHub:** [github.com/esfanmerchant](https://github.com/esfanmerchant)  
